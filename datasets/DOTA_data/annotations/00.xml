@@ -1,0 +1,28 @@
+<annotation>
+	<folder>zhawa_2Dpicture</folder>
+	<filename>00.png</filename>
+	<path>E:\cloudpoint_data\zhawa_2Dpicture\00.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1944</width>
+		<height>1200</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>zhawa</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<robndbox>
+			<cx>774.4528</cx>
+			<cy>644.5</cy>
+			<w>74.367</w>
+			<h>211.1103</h>
+			<angle>0.32</angle>
+		</robndbox>
+		<extra/>
+	</object>
+</annotation>

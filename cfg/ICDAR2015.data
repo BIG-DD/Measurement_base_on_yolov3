@@ -1,0 +1,7 @@
+classes=1 #目标检测分类数
+train=datasets/DOTA_data/ImageSets/train.txt #训练集的位置
+val=datasets/DOTA_data/ImageSets/train.txt #验证集的位置
+test=datasets/DOTA_data/ImageSets/train.txt #测试集的位置
+names=cfg/icdar.names
+backup=backup/
+eval=coco
